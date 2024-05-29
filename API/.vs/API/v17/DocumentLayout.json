@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|c:\\users\\ksurd\\desktop\\dev\\jit\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|c:\\users\\ksurd\\desktop\\dev\\jit\\api\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|solutionrelative:models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|c:\\users\\ksurd\\desktop\\dev\\jit\\api\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|c:\\users\\ksurd\\desktop\\dev\\jit\\api\\models\\visitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|solutionrelative:models\\visitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|c:\\users\\ksurd\\desktop\\dev\\jit\\api\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6DA90-B368-479D-BC45-37B7DC0B6FDA}|API.csproj|solutionrelative:models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:23:11.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAnwGEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:20:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitDb.cs",
+              "DocumentMoniker": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Models\\VisitDb.cs",
+              "RelativeDocumentMoniker": "Models\\VisitDb.cs",
+              "ToolTip": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Models\\VisitDb.cs",
+              "RelativeToolTip": "Models\\VisitDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:30:45.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Models\\Visit.cs",
+              "RelativeToolTip": "Models\\Visit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:22:10.161Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\ksurd\\Desktop\\Dev\\Jit\\API\\Models\\Cat.cs",
+              "RelativeToolTip": "Models\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:24:01.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

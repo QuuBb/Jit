@@ -1,0 +1,27 @@
+@API_HostAddress = https://localhost:7028
+
+GET {{API_HostAddress}}/visits
+Accept: application/json
+
+###
+
+POST {{API_HostAddress}}/addVisit
+Content-Type: application/json
+{
+  "id":"0",
+  "date":"01-06-2024H08:00",
+  "personName":"jan",
+  "personSurname":"kowalski"
+  "catName":"cat1",
+  "catAge":"3",
+  "catColor":"black"
+}
+###
+
+POST {{API_HostAddress}}/addVisit/{id}
+
+###
+
+POST {{API_HostAddress}}/addVisit/{id}
+
+###
